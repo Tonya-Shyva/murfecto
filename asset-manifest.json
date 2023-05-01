@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/murfetto/static/css/main.7acaea2f.css",
-    "main.js": "/murfetto/static/js/main.fc7462ab.js",
-    "index.html": "/murfetto/index.html",
-    "main.7acaea2f.css.map": "/murfetto/static/css/main.7acaea2f.css.map",
-    "main.fc7462ab.js.map": "/murfetto/static/js/main.fc7462ab.js.map"
+    "main.css": "/static/css/main.7acaea2f.css",
+    "main.js": "/static/js/main.fc7462ab.js",
+    "index.html": "/index.html",
+    "main.7acaea2f.css.map": "/static/css/main.7acaea2f.css.map",
+    "main.fc7462ab.js.map": "/static/js/main.fc7462ab.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
